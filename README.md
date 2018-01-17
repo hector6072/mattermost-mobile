@@ -5,6 +5,8 @@
 **Supported iOS versions:** 9.3+
 **Supported Android versions:** 5.0+
 
+[環境建置，開發手冊](https://docs.mattermost.com/developer/mobile-developer-setup.html)
+
 Mattermost is an open source Slack-alternative used by thousands of companies around the world in 11 languages. Learn more at [https://about.mattermost.com](https://about.mattermost.com).
 
 You can download our apps from the [App Store](https://about.mattermost.com/mattermost-ios-app/) or [Google Play Store](https://about.mattermost.com/mattermost-android-app/), or build them yourself. 
